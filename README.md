@@ -14,3 +14,7 @@ os.environ["GROQ_API_KEY"] = "COLOQUE_SUA_CHAVE_AQUI"
 Depois execute o restante do notebook normalmente.
 
 🔒 A chave não foi incluída no repositório por motivos de segurança.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Warleyhm/
+Criando-um-Guia-Tur-stico/blob/main/Criando_um_Guia_Turístico.ipynb)
